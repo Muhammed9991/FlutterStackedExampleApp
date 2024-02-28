@@ -1,3 +1,3 @@
 # navigation_example_app
 
-A new Flutter project.
+Nothing special. Just playing around with Flutter
